@@ -15,7 +15,7 @@ function App() {
   const [isLocked, setIsLocked] = useState(true);
 
   const apps = [
-    { id: 'mail', name: 'Mail', icon: <Mail color="white" size={32} />, color: '#007AFF' },
+
     { id: 'mail', name: 'Mail', icon: <Mail color="white" size={32} />, color: '#007AFF' },
     { id: 'maps', name: 'Maps', icon: <Map color="white" size={32} />, color: '#34C759' },
     { id: 'photos', name: 'Photos', icon: <Image color="white" size={32} />, color: 'white' }, // Custom handling for multicolor later
