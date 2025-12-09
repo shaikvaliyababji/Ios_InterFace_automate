@@ -16,8 +16,8 @@ function App() {
 
   const apps = [
 
-    { id: 'mail', name: 'Mail', icon: <Mail color="white" size={32} />, color: '#007AFF' },
-    { id: 'maps', name: 'Maps', icon: <Map color="white" size={32} />, color: '#34C759' },
+    { id: 'mail', name: 'Mail_id', icon: <Mail color="white" size={32} />, color: '#007AFF' },
+    { id: 'maps', name: 'Mapsss', icon: <Map color="white" size={32} />, color: '#34C759' },
     { id: 'photos', name: 'Photos', icon: <Image color="white" size={32} />, color: 'white' }, // Custom handling for multicolor later
     { id: 'calendar', name: 'Calendar', icon: <Calendar color="red" size={32} />, color: 'white' },
     { id: 'clock', name: 'Clock', icon: <Clock color="white" size={32} />, color: 'black' },
